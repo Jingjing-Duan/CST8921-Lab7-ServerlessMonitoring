@@ -1,0 +1,198 @@
+[
+  {
+    "deviceId": "turbine-05",
+    "timestamp": "2026-06-22T13:04:30Z",
+    "windSpeed": 17.31,
+    "generatedPower": 13.65,
+    "turbineSpeed": 17.79
+  },
+  {
+    "deviceId": "turbine-02",
+    "timestamp": "2026-06-22T13:01:30Z",
+    "windSpeed": 20.04,
+    "generatedPower": 10.21,
+    "turbineSpeed": 14.78
+  },
+  {
+    "deviceId": "turbine-03",
+    "timestamp": "2026-06-22T13:02:30Z",
+    "windSpeed": 5.11,
+    "generatedPower": 4.66,
+    "turbineSpeed": 12.51
+  },
+  {
+    "deviceId": "turbine-03",
+    "timestamp": "2026-06-22T13:03:00Z",
+    "windSpeed": 20.63,
+    "generatedPower": 3.91,
+    "turbineSpeed": 7.65
+  },
+  {
+    "deviceId": "turbine-05",
+    "timestamp": "2026-06-22T13:05:00Z",
+    "windSpeed": 16.56,
+    "generatedPower": 4.44,
+    "turbineSpeed": 4.39
+  },
+  {
+    "deviceId": "turbine-03",
+    "timestamp": "2026-06-22T13:03:30Z",
+    "windSpeed": 13.04,
+    "generatedPower": 6.33,
+    "turbineSpeed": 16.03
+  },
+  {
+    "deviceId": "turbine-05",
+    "timestamp": "2026-06-22T13:05:30Z",
+    "windSpeed": 6.1,
+    "generatedPower": 2.49,
+    "turbineSpeed": 14.63
+  },
+  {
+    "deviceId": "turbine-03",
+    "timestamp": "2026-06-22T13:04:00Z",
+    "windSpeed": 14.74,
+    "generatedPower": 7.99,
+    "turbineSpeed": 16.07
+  },
+  {
+    "deviceId": "turbine-04",
+    "timestamp": "2026-06-22T13:03:30Z",
+    "windSpeed": 7.03,
+    "generatedPower": 6.45,
+    "turbineSpeed": 12.55
+  },
+  {
+    "deviceId": "turbine-03",
+    "timestamp": "2026-06-22T13:04:30Z",
+    "windSpeed": 7.87,
+    "generatedPower": 6.69,
+    "turbineSpeed": 14.91
+  },
+  {
+    "deviceId": "turbine-01",
+    "timestamp": "2026-06-22T13:00:30Z",
+    "windSpeed": 20.68,
+    "generatedPower": 0.99,
+    "turbineSpeed": 7.65
+  },
+  {
+    "deviceId": "turbine-02",
+    "timestamp": "2026-06-22T13:02:00Z",
+    "windSpeed": 9.04,
+    "generatedPower": 3.89,
+    "turbineSpeed": 16.48
+  },
+  {
+    "deviceId": "turbine-05",
+    "timestamp": "2026-06-22T13:06:00Z",
+    "windSpeed": 16.93,
+    "generatedPower": 10.11,
+    "turbineSpeed": 17.84
+  },
+  {
+    "deviceId": "turbine-01",
+    "timestamp": "2026-06-22T13:01:00Z",
+    "windSpeed": 6.5,
+    "generatedPower": 2.22,
+    "turbineSpeed": 12.21
+  },
+  {
+    "deviceId": "turbine-03",
+    "timestamp": "2026-06-22T13:05:00Z",
+    "windSpeed": 16.06,
+    "generatedPower": 4.4,
+    "turbineSpeed": 6.84
+  },
+  {
+    "deviceId": "turbine-03",
+    "timestamp": "2026-06-22T13:05:30Z",
+    "windSpeed": 6.32,
+    "generatedPower": 5.49,
+    "turbineSpeed": 16.19
+  },
+  {
+    "deviceId": "turbine-04",
+    "timestamp": "2026-06-22T13:04:00Z",
+    "windSpeed": 5.56,
+    "generatedPower": 2.98,
+    "turbineSpeed": 15.21
+  },
+  {
+    "deviceId": "turbine-05",
+    "timestamp": "2026-06-22T13:06:30Z",
+    "windSpeed": 6.86,
+    "generatedPower": 6.09,
+    "turbineSpeed": 16.28
+  },
+  {
+    "deviceId": "turbine-04",
+    "timestamp": "2026-06-22T13:04:30Z",
+    "windSpeed": 17.85,
+    "generatedPower": 14.48,
+    "turbineSpeed": 14.69
+  },
+  {
+    "deviceId": "turbine-04",
+    "timestamp": "2026-06-22T13:05:00Z",
+    "windSpeed": 16.27,
+    "generatedPower": 0.42,
+    "turbineSpeed": 4.55
+  },
+  {
+    "deviceId": "turbine-02",
+    "timestamp": "2026-06-22T13:02:30Z",
+    "windSpeed": 12.63,
+    "generatedPower": 4.96,
+    "turbineSpeed": 10.44
+  },
+  {
+    "deviceId": "turbine-04",
+    "timestamp": "2026-06-22T13:05:30Z",
+    "windSpeed": 20.57,
+    "generatedPower": 2.35,
+    "turbineSpeed": 5.26
+  },
+  {
+    "deviceId": "turbine-05",
+    "timestamp": "2026-06-22T13:07:00Z",
+    "windSpeed": 13.38,
+    "generatedPower": 2.08,
+    "turbineSpeed": 15.05
+  },
+  {
+    "deviceId": "turbine-05",
+    "timestamp": "2026-06-22T13:07:30Z",
+    "windSpeed": 12.18,
+    "generatedPower": 7.38,
+    "turbineSpeed": 12.38
+  },
+  {
+    "deviceId": "turbine-03",
+    "timestamp": "2026-06-22T13:06:00Z",
+    "windSpeed": 19.2,
+    "generatedPower": 2.29,
+    "turbineSpeed": 8.77
+  },
+  {
+    "deviceId": "turbine-03",
+    "timestamp": "2026-06-22T13:06:30Z",
+    "windSpeed": 14.59,
+    "generatedPower": 7.33,
+    "turbineSpeed": 13.55
+  },
+  {
+    "deviceId": "turbine-01",
+    "timestamp": "2026-06-22T13:01:30Z",
+    "windSpeed": 13.49,
+    "generatedPower": 4.09,
+    "turbineSpeed": 14.47
+  },
+  {
+    "deviceId": "turbine-05",
+    "timestamp": "2026-06-22T13:08:00Z",
+    "windSpeed": 16.79,
+    "generatedPower": 10.43,
+    "turbineSpeed": 14.81
+  }
+]
